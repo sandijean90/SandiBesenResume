@@ -71,8 +71,3 @@ Generative AI, AI agent architectures, multi-agent systems, AI safety, machine l
 Fueled by nature, music, and movement—whether it’s hiking in national parks, singing, or cooking meals that bring people together.
 
 ---
-
-## Selected Publications / Projects  
-- [AI Safety Guardrails – arXiv 2412.13435](https://arxiv.org/abs/2412.13435)  
-- [AI Agent Architectures – arXiv 2404.11584](https://arxiv.org/abs/2404.11584)  
-- [IBM Consulting on AWS – Blog](https://aws.amazon.com/blogs/apn/ibm-consulting-platform-services-on-aws-supports-automated-and-intelligent-cloud-operations/)
