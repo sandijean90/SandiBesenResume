@@ -4,7 +4,7 @@
 
 ## SUMMARY
 
-Years on the stage taught me how to translate complex scores into moving performances; now I do the same with AI. By applying my experience as an AI Researcher, Data Scientist and technical evangelist across research and enterprise environments, I work to turn abstract concepts and new technologies into solutions that sing. I’m currently driving adoption and strategy for a Linux Foundation project while leading developer advocacy efforts and ecosystem partnerships for IBM Research's Product Incubation team. In previous roles, I published thought leadership and applied research about AI Safety, Guardrails, and AI Agents with 120+ citations. Outside of the office, I’m fueled by nature, music, and movement—whether hiking in national parks, singing and dancing, or cooking meals that bring people together.
+Years on the stage taught me how to translate complex scores into moving performances; now I do the same with AI. By applying my experience as an AI Researcher, Data Scientist and Technical Evangelist across research and enterprise environments, I work to turn abstract concepts and new technologies into solutions that sing. I’m currently driving adoption and strategy for a Linux Foundation project while leading developer advocacy efforts and ecosystem partnerships for IBM Research's Product Incubation team. In previous roles, I published thought leadership and applied research about AI Safety, Guardrails, and AI Agents with 120+ citations. Outside of the office, I’m fueled by nature, music, and movement—whether hiking in national parks, singing and dancing, or cooking meals that bring people together.
 
 ## RELEVANT WORK EXPERIENCE
 
